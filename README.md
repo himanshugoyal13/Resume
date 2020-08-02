@@ -6,6 +6,12 @@ Solutions-driven business analyst with over 12 years of experience leading cross
 <li> Agile/Scrum, SDLC framework and Design Thinking methodologies
 <li> Tools: Confluence, Jira, Wiki, Slack, Postman, Qliksense
 <li> 	Languages/Technologies: Java, Servlets, JavaScript, AngularJS, Web services SOAP, REST API services (JSON and XML) using JWT encryption.
+  x
+  x
+  x
+  x
+  x
+  
 
 
 ### Welcome to GitHub Pages
