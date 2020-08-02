@@ -9,7 +9,7 @@ Solutions-driven business analyst with over 12 years of experience leading cross
 
 
 
-## Welcome to GitHub Pages
+### Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/himanshugoyal13/Resume/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
