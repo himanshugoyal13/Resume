@@ -7,7 +7,7 @@ Solutions-driven business analyst with over 12 years of experience leading cross
 <li> Tools: Confluence, Jira, Wiki, Slack, Postman, Qliksense
 <li> 	Languages/Technologies: Java, Servlets, JavaScript, AngularJS, Web services SOAP, REST API services (JSON and XML) using JWT encryption.
 </li>
-  
+
 
 
 ### Welcome to GitHub Pages
