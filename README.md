@@ -8,7 +8,6 @@ Solutions-driven business analyst with over 12 years of experience leading cross
 <li> 	Languages/Technologies: Java, Servlets, JavaScript, AngularJS, Web services SOAP, REST API services (JSON and XML) using JWT encryption.
 
 
-
 ### Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/himanshugoyal13/Resume/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
