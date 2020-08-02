@@ -1,3 +1,9 @@
+### Professional Summary
+Solutions-driven business analyst with over 12 years of experience leading cross-functional teams in the development, documentation and delivery of process innovations driving the attainment of business goals. Seek opportunities to transform company practices into fresh, cost-effective solutions leading to more efficient operations.
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/himanshugoyal13/Resume/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
