@@ -1,7 +1,7 @@
-### Professional Summary
+## Professional Summary
 Solutions-driven business analyst with over 12 years of experience leading cross-functional teams in the development, documentation and delivery of process innovations driving the attainment of business goals. Seek opportunities to transform company practices into fresh, cost-effective solutions leading to more efficient operations.
 
-### Skills
+## Skills
 - Work flow diagram creation, end user training, process mapping, root cause analysis, gap analysis, change management
 - Agile/Scrum, SDLC framework and Design Thinking methodologies
 - Tools: Confluence, Jira, Wiki, Slack, Postman, Qliksense
@@ -9,8 +9,8 @@ Solutions-driven business analyst with over 12 years of experience leading cross
 
 ### Professional Experience
 
-# **ANZ Bank**
-## **Project**: Digital Customer Self Service
+## **ANZ Bank**
+#### **Project**: Digital Customer Self Service
 
 
 
