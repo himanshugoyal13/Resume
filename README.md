@@ -1,6 +1,11 @@
 ### Professional Summary
 Solutions-driven business analyst with over 12 years of experience leading cross-functional teams in the development, documentation and delivery of process innovations driving the attainment of business goals. Seek opportunities to transform company practices into fresh, cost-effective solutions leading to more efficient operations.
 
+### Skills
+<li> Work flow diagram creation, end user training, process mapping, root cause analysis, gap analysis, change management
+<li> Agile/Scrum, SDLC framework and Design Thinking methodologies
+<li> Tools: Confluence, Jira, Wiki, Slack, Postman, Qliksense
+<li> 	Languages/Technologies: Java, Servlets, JavaScript, AngularJS, Web services SOAP, REST API services (JSON and XML) using JWT encryption.
 
 
 
