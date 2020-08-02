@@ -7,6 +7,11 @@ Solutions-driven business analyst with over 12 years of experience leading cross
 - Tools: Confluence, Jira, Wiki, Slack, Postman, Qliksense
 - 	Languages/Technologies: Java, Servlets, JavaScript, AngularJS, Web services SOAP, REST API services (JSON and XML) using JWT encryption.
 
+### Professional Experience
+
+# **ANZ Bank**
+## **Project**: Digital Customer Self Service
+
 
 
 ### Welcome to GitHub Pages
